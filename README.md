@@ -36,5 +36,6 @@ O projeto também foi estruturado para servir como base para evoluções futuras
 
 Demonstrar domínio das operações **CRUD**, amplamente utilizadas em sistemas corporativos, além de reforçar conceitos essenciais como manipulação de dados, controle de estado da aplicação e boas práticas de desenvolvimento frontend.
 
-## Link do Projeto : https://niceas-martins.github.io/CRUD/
+## Link do Projeto : 
+https://niceas-martins.github.io/CRUD/
 
